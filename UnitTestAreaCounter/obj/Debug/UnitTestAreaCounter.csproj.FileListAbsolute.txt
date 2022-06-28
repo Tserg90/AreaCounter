@@ -1,0 +1,16 @@
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\UnitTestAreaCounter.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\UnitTestAreaCounter.pdb
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\AreaCounterLib.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\AreaCounterLib.pdb
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\obj\Debug\UnitTestAreaCounter.csproj.AssemblyReference.cache
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\obj\Debug\UnitTestAreaCounter.csproj.CoreCompileInputs.cache
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\obj\Debug\UnitTestAreaCounter.csproj.CopyComplete
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\obj\Debug\UnitTestAreaCounter.dll
+D:\Serg_Projects\AreaCounter\UnitTestAreaCounter\obj\Debug\UnitTestAreaCounter.pdb

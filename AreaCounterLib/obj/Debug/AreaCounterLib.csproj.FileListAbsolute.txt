@@ -1,0 +1,5 @@
+D:\Serg_Projects\AreaCounter\AreaCounterLib\bin\Debug\AreaCounterLib.dll
+D:\Serg_Projects\AreaCounter\AreaCounterLib\bin\Debug\AreaCounterLib.pdb
+D:\Serg_Projects\AreaCounter\AreaCounterLib\obj\Debug\AreaCounterLib.csproj.CoreCompileInputs.cache
+D:\Serg_Projects\AreaCounter\AreaCounterLib\obj\Debug\AreaCounterLib.dll
+D:\Serg_Projects\AreaCounter\AreaCounterLib\obj\Debug\AreaCounterLib.pdb

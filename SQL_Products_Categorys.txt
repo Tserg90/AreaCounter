@@ -1,0 +1,13 @@
+Считаем, что в БД 2 таблицы:
+	Products со столбцами Products.Id и Products.ProductName
+	Categorys со столбцами Categorys.Id и Categorys.CategoryName
+	
+Требуется создать дополнительную таблицу со связями
+	Connection со столбцами Connection.Id, Connection.ProductId и Connection.CategoryId
+
+SQL Запрос будет выглядеть следующим образом
+
+SELECT Products.ProductName, Categorys.CategoryName
+FROM Products
+LEFT JOIN Connection ON Products.Id = Connection.ProductId
+LEFT JOIN Categorys ON Connection.CategoryId = Categorys.Id
